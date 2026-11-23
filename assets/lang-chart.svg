@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" role="img" aria-label="Pie chart: share of public code bytes by language, Nov 23 2026">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect width="900" height="340" rx="14" fill="#0d1622"/>
+<text x="28" y="36" font-size="20" font-weight="600" fill="#e6edf3">Public code by language</text>
+<text x="872" y="35" font-size="12.5" fill="#8b98a5" text-anchor="end">Share of code bytes &#183; public non-fork repos &#183; Nov 23, 2026</text>
+<path d="M 205.0 195.0 L 205.00 87.00 A 108.00 108.00 0 1 1 123.54 265.91 Z" fill="#0f5aa8"/>
+<path d="M 205.0 195.0 L 123.54 265.91 A 108.00 108.00 0 0 1 109.08 145.37 Z" fill="#b23c14"/>
+<path d="M 205.0 195.0 L 109.08 145.37 A 108.00 108.00 0 0 1 139.34 109.25 Z" fill="#b8901f"/>
+<path d="M 205.0 195.0 L 139.34 109.25 A 108.00 108.00 0 0 1 174.87 91.29 Z" fill="#7c379a"/>
+<path d="M 205.0 195.0 L 174.87 91.29 A 108.00 108.00 0 0 1 191.46 87.85 Z" fill="#b02752"/>
+<path d="M 205.0 195.0 L 191.46 87.85 A 108.00 108.00 0 0 1 205.00 87.00 Z" fill="#647381"/>
+<polyline points="198.2,87.2 197.2,71.2 190.6,61.3" fill="none" stroke="#8b98a5" stroke-width="1"/>
+<text x="196.6" y="65.3" font-size="13" font-weight="600" fill="#c9d4de" text-anchor="end">2.0%</text>
+<polyline points="183.1,89.2 179.9,73.6 171.8,81.3" fill="none" stroke="#8b98a5" stroke-width="1"/>
+<text x="177.8" y="85.3" font-size="13" font-weight="600" fill="#c9d4de" text-anchor="end">2.5%</text>
+<text x="262.0" y="226.0" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">63.6%</text>
+<text x="142.8" y="207.5" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">19.0%</text>
+<text x="157.0" y="159.8" font-size="15" font-weight="700" fill="#1f1f1f" text-anchor="middle">7.0%</text>
+<text x="176.7" y="144.1" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">5.9%</text>
+<rect x="415" y="97" width="14" height="14" rx="3" fill="#0f5aa8"/>
+<text x="439" y="109" font-size="14.5" fill="#c9d4de">Dart</text>
+<text x="595" y="109" font-size="14.5" fill="#8b98a5" text-anchor="end">63.6%</text>
+<rect x="415" y="131" width="14" height="14" rx="3" fill="#b23c14"/>
+<text x="439" y="143" font-size="14.5" fill="#c9d4de">HTML</text>
+<text x="595" y="143" font-size="14.5" fill="#8b98a5" text-anchor="end">19.0%</text>
+<rect x="415" y="165" width="14" height="14" rx="3" fill="#b8901f"/>
+<text x="439" y="177" font-size="14.5" fill="#c9d4de">JavaScript</text>
+<text x="595" y="177" font-size="14.5" fill="#8b98a5" text-anchor="end">7.0%</text>
+<rect x="415" y="199" width="14" height="14" rx="3" fill="#7c379a"/>
+<text x="439" y="211" font-size="14.5" fill="#c9d4de">CSS</text>
+<text x="595" y="211" font-size="14.5" fill="#8b98a5" text-anchor="end">5.9%</text>
+<rect x="415" y="233" width="14" height="14" rx="3" fill="#b02752"/>
+<text x="439" y="245" font-size="14.5" fill="#c9d4de">C++</text>
+<text x="595" y="245" font-size="14.5" fill="#8b98a5" text-anchor="end">2.5%</text>
+<rect x="415" y="267" width="14" height="14" rx="3" fill="#647381"/>
+<text x="439" y="279" font-size="14.5" fill="#c9d4de">Other</text>
+<text x="595" y="279" font-size="14.5" fill="#8b98a5" text-anchor="end">2.0%</text>
+<text x="415" y="318" font-size="12" fill="#5f6d7a">8 public repos &#183; github.com/EslaamAshraaf</text>
+</svg>

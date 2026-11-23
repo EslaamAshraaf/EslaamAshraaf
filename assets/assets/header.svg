@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.6">
+      <stop offset="0" stop-color="#0c1826"/>
+      <stop offset="0.55" stop-color="#0f2233"/>
+      <stop offset="1" stop-color="#12303f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.98" cy="0.05" r="0.9">
+      <stop offset="0" stop-color="#14b8a6" stop-opacity="0.28"/>
+      <stop offset="0.5" stop-color="#14b8a6" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#14b8a6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#glow)"/>
+
+  <text x="90" y="168" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="700">
+    <tspan fill="#ffffff">Eslam </tspan><tspan fill="url(#name2)">Ashraf</tspan>
+  </text>
+
+  <text x="90" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="29" fill="#9aa7b8">
+    Flutter Developer  |  Mobile Software Engineer  ·  Giza, Egypt
+  </text>
+
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#e6edf3">
+    <rect x="90" y="268" width="292" height="54" rx="27" fill="none" stroke="#2dd4bf" stroke-opacity="0.55" stroke-width="1.5"/>
+    <text x="118" y="302">2.5+ years experience</text>
+
+    <rect x="400" y="268" width="248" height="54" rx="27" fill="none" stroke="#2dd4bf" stroke-opacity="0.55" stroke-width="1.5"/>
+    <text x="429" y="302">6+ apps shipped</text>
+
+    <rect x="666" y="268" width="258" height="54" rx="27" fill="none" stroke="#2dd4bf" stroke-opacity="0.55" stroke-width="1.5"/>
+    <text x="692" y="302">200+ screens built</text>
+
+    <rect x="942" y="268" width="458" height="54" rx="27" fill="none" stroke="#2dd4bf" stroke-opacity="0.55" stroke-width="1.5"/>
+    <text x="968" y="302">Apps live on App Store &amp; Google Play</text>
+  </g>
+</svg>

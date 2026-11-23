@@ -13,6 +13,18 @@
 
 Flutter Developer with **2.5 years of experience** building and shipping cross-platform mobile apps for **Android and iOS**. I turn UI/UX designs into pixel-perfect, reliable products, with a strong focus on clean architecture and performance. Apps I built are live on the App Store and Google Play.
 
+## GitHub at a Glance
+
+<p align="center">
+  <img src="assets/lang-chart.svg" alt="Share of code bytes in Eslam's public non-fork GitHub repos as of Nov 23, 2026: Dart 63.6%, HTML 19.0%, JavaScript 7.0%, CSS 5.9%, C++ 2.5%, Other 2.0%" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20repos-9-1b3a4b?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Apps%20shipped-6+-14b8a6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/pub.dev%20packages-1-0175C2?style=flat-square"/>
+</p>
+
 ## Tech Stack
 
 <p>
@@ -34,11 +46,11 @@ Flutter Developer with **2.5 years of experience** building and shipping cross-p
 
 | App | What it is | Highlights | Get it |
 | --- | --- | --- | --- |
-| **Farrah Now** | Social travel app | Google Maps & geolocation, media sharing, real-time push notifications | [Google Play](https://play.google.com/store/apps/details?id=com.wanderr.app&hl=en) · [App Store](https://apps.apple.com/us/app/farrah-now/id6760767174) |
-| **MV Limousine** | Car-rental platform | Two service tiers, real-time pricing, driver availability, multi-step booking over a Laravel REST API | [Google Play](https://play.google.com/store/apps/details?id=com.Triple.MVLimousine&hl=en) · [App Store](https://apps.apple.com/eg/app/mv-limousine/id6757188466) |
-| **BabyTrack** | Baby-care app | On-device TensorFlow Lite cry detection, growth tracking & analytics, Arabic/English with full RTL support | [Google Play](https://play.google.com/store/apps/details?id=com.babytrackk.app) · [App Store](https://apps.apple.com/us/app/baby-track/id6770317630) |
-| **Foteek** | Footwear e-commerce app | Brand discovery & filters, wishlist, cart, live order tracking | [Google Play](https://play.google.com/store/apps/details?id=com.footek.triple&hl=en) · [App Store](https://apps.apple.com/au/app/footek/id6795145200) |
-| **GoBite** | Arabic food-ordering app | Full RTL interface, restaurant menus with offers, cart & order tracking | [Google Play](https://play.google.com/store/apps/details?id=com.gobite.triple) · [App Store](https://apps.apple.com/ng/app/gobite/id6800733653) |
+| **Farrah Now** | Social travel app | Google Maps & geolocation, media sharing, real-time push notifications | <a href="https://play.google.com/store/apps/details?id=com.wanderr.app&hl=en"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white"/></a> <a href="https://apps.apple.com/us/app/farrah-now/id6760767174"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a> |
+| **MV Limousine** | Car-rental platform | Two service tiers, real-time pricing, driver availability, multi-step booking over a Laravel REST API | <a href="https://play.google.com/store/apps/details?id=com.Triple.MVLimousine&hl=en"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white"/></a> <a href="https://apps.apple.com/eg/app/mv-limousine/id6757188466"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a> |
+| **BabyTrack** | Baby-care app | On-device TensorFlow Lite cry detection, growth tracking & analytics, Arabic/English with full RTL support | <a href="https://play.google.com/store/apps/details?id=com.babytrackk.app"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white"/></a> <a href="https://apps.apple.com/us/app/baby-track/id6770317630"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a> |
+| **Foteek** | Footwear e-commerce app | Brand discovery & filters, wishlist, cart, live order tracking | <a href="https://play.google.com/store/apps/details?id=com.footek.triple&hl=en"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white"/></a> <a href="https://apps.apple.com/au/app/footek/id6795145200"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a> |
+| **GoBite** | Arabic food-ordering app | Full RTL interface, restaurant menus with offers, cart & order tracking | <a href="https://play.google.com/store/apps/details?id=com.gobite.triple&hl=en"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white"/></a> <a href="https://apps.apple.com/ng/app/gobite/id6800733653"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a> |
 | **RBCS** | Medical e-learning app | Class catalogue by specialty, video previews, mentor profiles & ratings | Store links not provided |
 
 ## Open Source

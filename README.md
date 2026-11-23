@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.png" alt="Eslam Ashraf - Flutter Developer and Mobile Software Engineer" width="100%"/>
+  <img src="assets/header.svg" alt="Eslam Ashraf - Flutter Developer and Mobile Software Engineer" width="100%"/>
 </p>
 
 <p align="center">
